@@ -1,0 +1,2 @@
+model_checkpoint_path: "facerecognition_alexnet.chkp"
+all_model_checkpoint_paths: "facerecognition_alexnet.chkp"
